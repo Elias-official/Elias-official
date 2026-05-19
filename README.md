@@ -2,35 +2,47 @@
 
 <h1 align="center">Olá, me chamo Elias, sou apenas um jovem explorador no mundo da programação</h1>
 
-###
+### Sobre mim
 
-<div align="center">
-</div>
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando Análise e Desenvolvimento de Sistemas na Universidade Metodista.
+- 🌱 Aprendendo mais sobre Python, Java, Javascript e MySql.
 
-###
+### Minhas Skills
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div>
+**Linguagens de Porgramação**
 
-###
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 
-<img align="left" height="170" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWh0dDQxeGVhZ3cyY3A0dTMzYndyYTNudGZvOHQycW1peHVoODZwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/urMBBe6EBOcl8nZx6r/giphy.gif"  />
+**DevOps**
 
-###
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=eliastsjunior52@gmail&logo=gmail&label=Gmail&color=808080&logoColor=white&labelColor=D14836&style=for-the-badge" height="44" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=.sadiko_.&logo=discord&label=Discord&color=808080&logoColor=white&labelColor=7289DA&style=for-the-badge" height="44" alt="discord logo"  />
-  <a href="https://www.instagram.com/_.eli.jr/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=_.eli.jr&logo=instagram&label=Instagram&color=808080&logoColor=white&labelColor=E4405F&style=for-the-badge" height="44" alt="instagram logo"  />
-  </a>
-</div>
+**Ferramentas de Desenvolvimento**
 
-###
-###
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Intellij](https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellij-idea&logoColor=00000)
+Pycharm (n achei foto)
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-junioroficial/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Elias-official)
+[![Gmail Badge](https://img.shields.io/badge/-eliastsjunior52@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eliastsjunior52@gmail.com)](mailto:eliastsjunior52@gmail.com)
+
+
+
+
+<br />
+
+<img align="left" height="190" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWh0dDQxeGVhZ3cyY3A0dTMzYndyYTNudGZvOHQycW1peHVoODZwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/urMBBe6EBOcl8nZx6r/giphy.gif"  
+  />
+
 
