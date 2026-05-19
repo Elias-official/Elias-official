@@ -32,7 +32,7 @@
 Pycharm (n achei foto)
 
 ## Onde me encontrar
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.eli.jr/)s
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-junioroficial/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Elias-official)
 [![Gmail Badge](https://img.shields.io/badge/-eliastsjunior52@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eliastsjunior52@gmail.com)](mailto:eliastsjunior52@gmail.com)
